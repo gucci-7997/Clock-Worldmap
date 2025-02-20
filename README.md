@@ -1,6 +1,5 @@
-# kamlab_software
-
-2023年度_情報学ゼミソフトウェア班
+# name
+WorldMap&Clock
 
 ## 動作方法
 
